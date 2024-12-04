@@ -2,11 +2,14 @@ import {Table} from 'react-bootstrap'
 
 function Map () {
     const students = [
+        {name: 'ali', age: '25'},
         {name: 'ali', age: '22'},
         {name: 'ali', age: '22'},
+        {name: 'ali', age: '2265'},
         {name: 'ali', age: '22'},
+        {name: 'ali', age: '20'},
         {name: 'ali', age: '22'},
-        {name: 'ali', age: '22'},
+        {name: 'ali', age: '24'},
     ]
     
     return (
